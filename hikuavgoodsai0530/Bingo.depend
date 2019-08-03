@@ -1,0 +1,475 @@
+# depslib dependency file v1.0
+1527168778 source:/home/xcb/桌面/test/Bingo/cJSON.cpp
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1527168778 /home/xcb/桌面/test/Bingo/cJSON.h
+
+1527168778 source:/home/xcb/桌面/test/Bingo/CmdParse.cpp
+	"CmdParse.h"
+	<string.h>
+
+1527406948 /home/xcb/桌面/test/Bingo/CmdParse.h
+	"JsonParse.h"
+	<vector>
+
+1527168778 /home/xcb/桌面/test/Bingo/JsonParse.h
+	"stdio.h"
+	"stdlib.h"
+	"cJSON.h"
+
+1527168778 source:/home/xcb/桌面/test/Bingo/JsonParse.cpp
+	"JsonParse.h"
+	<string.h>
+
+1527428640 source:/home/xcb/桌面/test/Bingo/mian.cpp
+	<stdlib.h>
+	<stdio.h>
+	"OSSocket.h"
+	"JsonParse.h"
+	"CmdParse.h"
+	<queue>
+
+1527168778 /home/xcb/桌面/test/Bingo/OSSocket.h
+	<winsock2.h>
+	<ws2ipdef.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+
+1527168778 source:/home/xcb/桌面/test/Bingo/OSSocket.cpp
+	"OSSocket.h"
+	"stdlib.h"
+	"stdio.h"
+
+1527168778 source:/home/zhj/Bingo/cJSON.cpp
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1527168778 /home/zhj/Bingo/cJSON.h
+
+1527168778 source:/home/zhj/Bingo/CmdParse.cpp
+	"CmdParse.h"
+	<string.h>
+
+1527329370 /home/zhj/Bingo/CmdParse.h
+	"JsonParse.h"
+	<vector>
+
+1527168778 /home/zhj/Bingo/JsonParse.h
+	"stdio.h"
+	"stdlib.h"
+	"cJSON.h"
+
+1527168778 source:/home/zhj/Bingo/JsonParse.cpp
+	"JsonParse.h"
+	<string.h>
+
+1527347956 source:/home/zhj/Bingo/mian.cpp
+	<stdlib.h>
+	<stdio.h>
+	"OSSocket.h"
+	"JsonParse.h"
+	"CmdParse.h"
+	<queue>
+
+1527168778 /home/zhj/Bingo/OSSocket.h
+	<winsock2.h>
+	<ws2ipdef.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+
+1527168778 source:/home/zhj/Bingo/OSSocket.cpp
+	"OSSocket.h"
+	"stdlib.h"
+	"stdio.h"
+
+1527168778 source:/home/zhj/cb_project/Bingo/cJSON.cpp
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1527168778 /home/zhj/cb_project/Bingo/cJSON.h
+
+1527168778 source:/home/zhj/cb_project/Bingo/CmdParse.cpp
+	"CmdParse.h"
+	<string.h>
+
+1527406948 /home/zhj/cb_project/Bingo/CmdParse.h
+	"JsonParse.h"
+	<vector>
+
+1527168778 /home/zhj/cb_project/Bingo/JsonParse.h
+	"stdio.h"
+	"stdlib.h"
+	"cJSON.h"
+
+1527168778 source:/home/zhj/cb_project/Bingo/JsonParse.cpp
+	"JsonParse.h"
+	<string.h>
+
+1527432263 source:/home/zhj/cb_project/Bingo/mian.cpp
+	<stdlib.h>
+	<stdio.h>
+	"OSSocket.h"
+	"JsonParse.h"
+	"CmdParse.h"
+	<queue>
+
+1527168778 /home/zhj/cb_project/Bingo/OSSocket.h
+	<winsock2.h>
+	<ws2ipdef.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+
+1527168778 source:/home/zhj/cb_project/Bingo/OSSocket.cpp
+	"OSSocket.h"
+	"stdlib.h"
+	"stdio.h"
+
+1527168778 source:/home/xcb/桌面/Bingo/cJSON.cpp
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1527168778 /home/xcb/桌面/Bingo/cJSON.h
+
+1527168778 source:/home/xcb/桌面/Bingo/CmdParse.cpp
+	"CmdParse.h"
+	<string.h>
+
+1527406948 /home/xcb/桌面/Bingo/CmdParse.h
+	"JsonParse.h"
+	<vector>
+
+1527168778 /home/xcb/桌面/Bingo/JsonParse.h
+	"stdio.h"
+	"stdlib.h"
+	"cJSON.h"
+
+1527168778 source:/home/xcb/桌面/Bingo/JsonParse.cpp
+	"JsonParse.h"
+	<string.h>
+
+1527407707 source:/home/xcb/桌面/Bingo/mian.cpp
+	<stdlib.h>
+	<stdio.h>
+	"OSSocket.h"
+	"JsonParse.h"
+	"CmdParse.h"
+	<queue>
+
+1527168778 /home/xcb/桌面/Bingo/OSSocket.h
+	<winsock2.h>
+	<ws2ipdef.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+
+1527168778 source:/home/xcb/桌面/Bingo/OSSocket.cpp
+	"OSSocket.h"
+	"stdlib.h"
+	"stdio.h"
+
+1527168778 source:/home/lxy/下载/Bingo/cJSON.cpp
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1527168778 /home/lxy/下载/Bingo/cJSON.h
+
+1527168778 source:/home/lxy/下载/Bingo/CmdParse.cpp
+	"CmdParse.h"
+	<string.h>
+
+1527477133 /home/lxy/下载/Bingo/CmdParse.h
+	"JsonParse.h"
+	<vector>
+
+1527168778 /home/lxy/下载/Bingo/JsonParse.h
+	"stdio.h"
+	"stdlib.h"
+	"cJSON.h"
+
+1527168778 source:/home/lxy/下载/Bingo/JsonParse.cpp
+	"JsonParse.h"
+	<string.h>
+
+1527521767 source:/home/lxy/下载/Bingo/mian.cpp
+	<stdlib.h>
+	<stdio.h>
+	"OSSocket.h"
+	"JsonParse.h"
+	"CmdParse.h"
+	<queue>
+
+1527168778 /home/lxy/下载/Bingo/OSSocket.h
+	<winsock2.h>
+	<ws2ipdef.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+
+1527168778 source:/home/lxy/下载/Bingo/OSSocket.cpp
+	"OSSocket.h"
+	"stdlib.h"
+	"stdio.h"
+
+1527168778 source:/home/huuu/git/bg2/Bingo/cJSON.cpp
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1527168778 /home/huuu/git/bg2/Bingo/cJSON.h
+
+1527168778 source:/home/huuu/git/bg2/Bingo/CmdParse.cpp
+	"CmdParse.h"
+	<string.h>
+
+1527477133 /home/huuu/git/bg2/Bingo/CmdParse.h
+	"JsonParse.h"
+	<vector>
+
+1527168778 /home/huuu/git/bg2/Bingo/JsonParse.h
+	"stdio.h"
+	"stdlib.h"
+	"cJSON.h"
+
+1527168778 source:/home/huuu/git/bg2/Bingo/JsonParse.cpp
+	"JsonParse.h"
+	<string.h>
+
+1527594925 source:/home/huuu/git/bg2/Bingo/mian.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"OSSocket.h"
+	"JsonParse.h"
+	"CmdParse.h"
+	<queue>
+	<map>
+
+1527168778 /home/huuu/git/bg2/Bingo/OSSocket.h
+	<winsock2.h>
+	<ws2ipdef.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+
+1527168778 source:/home/huuu/git/bg2/Bingo/OSSocket.cpp
+	"OSSocket.h"
+	"stdlib.h"
+	"stdio.h"
+
+1527168778 source:/home/huuu/git/bg2/HikUAVGoodsAI/cJSON.cpp
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1527168778 /home/huuu/git/bg2/HikUAVGoodsAI/cJSON.h
+
+1527168778 source:/home/huuu/git/bg2/HikUAVGoodsAI/CmdParse.cpp
+	"CmdParse.h"
+	<string.h>
+
+1527477133 /home/huuu/git/bg2/HikUAVGoodsAI/CmdParse.h
+	"JsonParse.h"
+	<vector>
+
+1527168778 /home/huuu/git/bg2/HikUAVGoodsAI/JsonParse.h
+	"stdio.h"
+	"stdlib.h"
+	"cJSON.h"
+
+1527168778 source:/home/huuu/git/bg2/HikUAVGoodsAI/JsonParse.cpp
+	"JsonParse.h"
+	<string.h>
+
+1527594925 source:/home/huuu/git/bg2/HikUAVGoodsAI/mian.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"OSSocket.h"
+	"JsonParse.h"
+	"CmdParse.h"
+	<queue>
+	<map>
+
+1527168778 /home/huuu/git/bg2/HikUAVGoodsAI/OSSocket.h
+	<winsock2.h>
+	<ws2ipdef.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+
+1527168778 source:/home/huuu/git/bg2/HikUAVGoodsAI/OSSocket.cpp
+	"OSSocket.h"
+	"stdlib.h"
+	"stdio.h"
+
+1527168778 source:/home/huuu/git/bg2/HikUAVGoodsAI0528/cJSON.cpp
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1527168778 /home/huuu/git/bg2/HikUAVGoodsAI0528/cJSON.h
+
+1527652575 source:/home/huuu/git/bg2/HikUAVGoodsAI0528/CmdParse.cpp
+	"CmdParse.h"
+	<string.h>
+
+1528027043 /home/huuu/git/bg2/HikUAVGoodsAI0528/CmdParse.h
+	"JsonParse.h"
+	<vector>
+
+1527168778 /home/huuu/git/bg2/HikUAVGoodsAI0528/JsonParse.h
+	"stdio.h"
+	"stdlib.h"
+	"cJSON.h"
+
+1527168778 source:/home/huuu/git/bg2/HikUAVGoodsAI0528/JsonParse.cpp
+	"JsonParse.h"
+	<string.h>
+
+1528119158 source:/home/huuu/git/bg2/HikUAVGoodsAI0528/mian.cpp
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	"OSSocket.h"
+	"JsonParse.h"
+	"CmdParse.h"
+	<queue>
+	<map>
+	<algorithm>
+	<time.h>
+	<iostream>
+
+1527168778 /home/huuu/git/bg2/HikUAVGoodsAI0528/OSSocket.h
+	<winsock2.h>
+	<ws2ipdef.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+
+1527168778 source:/home/huuu/git/bg2/HikUAVGoodsAI0528/OSSocket.cpp
+	"OSSocket.h"
+	"stdlib.h"
+	"stdio.h"
+
+1527168778 source:/home/huuu/git/bingo0604/HikUAVGoodsAI0528/cJSON.cpp
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1527168778 /home/huuu/git/bingo0604/HikUAVGoodsAI0528/cJSON.h
+
+1528270180 source:/home/huuu/git/bingo0604/HikUAVGoodsAI0528/CmdParse.cpp
+	"CmdParse.h"
+	<string.h>
+
+1528290186 /home/huuu/git/bingo0604/HikUAVGoodsAI0528/CmdParse.h
+	"JsonParse.h"
+	<vector>
+
+1527168778 /home/huuu/git/bingo0604/HikUAVGoodsAI0528/JsonParse.h
+	"stdio.h"
+	"stdlib.h"
+	"cJSON.h"
+
+1527168778 source:/home/huuu/git/bingo0604/HikUAVGoodsAI0528/JsonParse.cpp
+	"JsonParse.h"
+	<string.h>
+
+1528512104 source:/home/huuu/git/bingo0604/HikUAVGoodsAI0528/mian.cpp
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	"OSSocket.h"
+	"JsonParse.h"
+	"CmdParse.h"
+	<queue>
+	<map>
+	<algorithm>
+	<time.h>
+	<iostream>
+	<stack>
+
+1527168778 /home/huuu/git/bingo0604/HikUAVGoodsAI0528/OSSocket.h
+	<winsock2.h>
+	<ws2ipdef.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+
+1527168778 source:/home/huuu/git/bingo0604/HikUAVGoodsAI0528/OSSocket.cpp
+	"OSSocket.h"
+	"stdlib.h"
+	"stdio.h"
+
